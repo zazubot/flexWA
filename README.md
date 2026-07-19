@@ -1,6 +1,5 @@
-<h1 align="center">FlexWA</h1>
 <p align="center">
-  <strong>Open Source WhatsApp API Gateway</strong>
+  <img src="docs/logo/flexwa_logo.png" alt="FlexWA Logo" width="600"/>
 </p>
 
 <p align="center">
@@ -87,7 +86,7 @@ Built on a **pluggable architecture**, FlexWA lets you select database engines (
 
 ```bash
 # Clone and start
-git clone https://github.com/rmyndharis/FlexWA.git
+git clone https://github.com/zazubot/FlexWA.git
 cd FlexWA
 docker compose -f docker-compose.dev.yml up -d
 
@@ -112,7 +111,7 @@ docker compose -f docker-compose.dev.yml up -d
 
 ```bash
 # Clone repository
-git clone https://github.com/rmyndharis/FlexWA.git
+git clone https://github.com/zazubot/FlexWA.git
 cd FlexWA
 
 # Install dependencies (includes dashboard)
@@ -388,7 +387,7 @@ See [LICENSE](./LICENSE) for details.
 
 **FlexWA** – Free, Open Source WhatsApp API Gateway
 
-[📖 Documentation](./docs/README.md) · [🔌 API Docs](http://localhost:2785/api/docs) · [🐛 Report Bug](https://github.com/rmyndharis/FlexWA/issues) · [💡 Request Feature](https://github.com/rmyndharis/FlexWA/issues)
+[📖 Documentation](./docs/README.md) · [🔌 API Docs](http://localhost:2785/api/docs) · [🐛 Report Bug](https://github.com/zazubot/FlexWA/issues) · [💡 Request Feature](https://github.com/zazubot/FlexWA/issues)
 
 <br/>
 

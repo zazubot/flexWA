@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="docs/logo/flexwa_logo.png" alt="FlexWA Logo" width="200"/>
+  <img src="docs/logo/flexwa_logo.png" alt="FlexWA Logo" width="400"/>
 </p>
 
-<h1 align="center">FlexWA</h1>
 <p align="center">
   <strong>Open Source WhatsApp API Gateway</strong>
 </p>

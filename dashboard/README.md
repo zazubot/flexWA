@@ -96,4 +96,4 @@ VITE_WS_URL=http://localhost:2785
 
 ## 📄 License
 
-MIT License - Part of the [FlexWA](https://github.com/rmyndharis/FlexWA) project.
+MIT License - Part of the [FlexWA](https://github.com/zazubot/FlexWA) project.
